@@ -1,3 +1,4 @@
+//Agregando las variables
 import React, { useState, useEffect } from 'react';
 import Form from './components/Form';
 import TodoList from './components/TodoList';
