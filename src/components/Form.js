@@ -45,7 +45,7 @@ function Form({ setInputText, inputText, todos, setTodos, setStatus }) {
                     name="todos"
                     className="filter-todo"
                 >
-                    <option value="all">Todas las tareas</option>
+                    <option value="all">TODO LIST</option>
                     <option value="completed">Tareas completas</option>
                     <option value="uncompleted">Tareas por hacer</option>
                 </select>

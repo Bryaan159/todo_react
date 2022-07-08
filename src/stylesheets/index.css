@@ -5,9 +5,9 @@
 }
 body {
     
-    background: #2b5876; 
-    background: -webkit-linear-gradient(to right, #2b5876, #4e4376);
-    background: linear-gradient(to right, #2b5876, #4e4376); 
+    background: #16222A; 
+    background: -webkit-linear-gradient(to right, #3A6073, #16222A);  
+    background: linear-gradient(to right, #3A6073, #16222A); 
     color: white;
     font-family: 'Poppins', sans-serif;
     min-height: 100vh;
@@ -31,13 +31,13 @@ form button {
     background: white;
 }
 form button {
-    color: #3A5BA0;
+    color: #1A4D2E;
     background: #f7fffe;
     cursor: pointer;
     transition: all 0.3s ease;
 }
 form button:hover {
-    background: #3A5BA0;
+    background: #1A4D2E;
     color: white;
 }
 .todo-container {
@@ -70,7 +70,7 @@ form button:hover {
 
 .trash-btn,
 .complete-btn {
-    background: #3A5BA0;
+    background: #1A4D2E;
     color: white;
     border: none;
     padding: 1rem;
@@ -78,7 +78,7 @@ form button:hover {
     font-size: 1rem;
 }
 .complete-btn {
-    background: #FFA500;
+    background: #FF9F29;
 }
 .todo-item {
     padding: 0rem 0.5rem;
@@ -118,7 +118,7 @@ select {
     overflow: hidden;
 }
 select {
-    color: #3A5BA0;
+    color: #1A4D2E;
     font-family: 'Poppins', sans-serif;
     cursor: pointer;
     width: 12rem;
@@ -130,7 +130,7 @@ select {
     top: 0;
     right: 0;
     padding: 1rem;
-    background: #3A5BA0;
+    background: #1A4D2E;
     cursor: pointer;
     pointer-events: none;
 }
