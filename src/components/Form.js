@@ -23,6 +23,7 @@ function Form({ setInputText, inputText, todos, setTodos, setStatus }) {
     const statusHandler = (ev) => {
         setStatus(ev.target.value);
     };
+    //Generando un cambio para probar
 
     return (
         <form>
